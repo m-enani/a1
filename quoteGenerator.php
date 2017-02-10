@@ -16,5 +16,3 @@ $quotes = [
 ];
 
 $random = $quotes[rand ( 0 , 2)];
-
-echo $random;
